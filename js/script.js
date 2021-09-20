@@ -121,3 +121,5 @@ const checkIfWin = function () {
     message.innerHTML = `<p class="highlight">You guessed correct the word! Congrats!</p>`;
   }
 };
+
+//code testing
